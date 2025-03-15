@@ -5,6 +5,6 @@ int main() {
    printf("hello");
    //fflush(stdout);
    pid_t pid = fork();
-
+   //fflush(stdout);
    return 0;
 }
